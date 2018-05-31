@@ -7,7 +7,7 @@
 <li>本科 山东科技大学 英语四级</li>
 </ul>
 <h3>我能胜任的工作</h3>
-<p>CSS3功底极佳，对像素追求极致，可以精确还原设计稿，精通并有足够能力使用开源Js库JQuery/React/进行完整项目开发,熟悉Vue/AngularJS并熟悉学习使用新框架的流程、对新技术有极大兴趣，有Nodejs开发全栈项目经验。Github网址：https://github.com/zhaochuantian </p>
+<p>CSS3功底极佳，对像素追求极致，可以精确还原设计稿，完整完成过Redux项目开发，可以独立完成Vue全家桶、React全家桶项目开发，了解Angular开发流程。精通HTML5、CSS3、ES，现在虽然不怎么用JQuery了，但是JQuery是基本功，一直没有拉下。对新技术充满期待。</p>
 <h3>技能特长</h3>
 <ol>我对终身学习有正确认识，具有不断学习和适应发展的能力，是掘金、SegmentFault、伯乐在线、CSDN活跃用户，非常关注前端开发博客。参考JQuery原理利用面向对象思想封装了私人框架ZQuery，实现了JQuery的部分功能。ZQuery的github地址：https://github.com/zhaochuantian/ZQuery/tree/master 
 <li>精通HTML5 + CSS3 + JQ，熟练使用ECMA6语法中的展开符、数组的解构赋值、对象的完全解构进行Vue、React、Angular开发，我用nodejs的express框架搭建web服务开发了个人整站，熟悉增加路由→渲染路由→处理页面的工作流程，
