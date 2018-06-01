@@ -4,7 +4,7 @@
 <li>求职意向 中高级前端开发工程师</li>
 <li>电话：15666364867</li>
 <li>邮箱：deskmatemiss@foxmail.com </li>
-<li>本科 山东科技大学 英语四级</li>
+<li>本科 山东科技大学</li>
 </ul>
 <h3>我能胜任的工作</h3>
 <p>CSS3功底极佳，对像素追求极致，可以精确还原设计稿，完整完成过Redux项目开发，可以独立完成Vue全家桶、React全家桶项目开发，了解Angular开发流程。精通HTML5、CSS3、ES，现在虽然不怎么用JQuery了，但是JQuery是基本功，一直没有拉下。对新技术充满期待。</p>
