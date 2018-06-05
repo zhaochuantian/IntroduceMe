@@ -1,15 +1,16 @@
 
 <h2>赵川田</h2>
 <ul>
-<li>求职意向 中高级前端开发工程师</li>
+<li>求职意向 前端开发工程师</li>
 <li>电话：15666364867</li>
 <li>邮箱：deskmatemiss@foxmail.com </li>
 <li>本科 山东科技大学</li>
 </ul>
 <h3>我能胜任的工作</h3>
-<p>CSS3功底极佳，对像素追求极致，可以精确还原设计稿，完整完成过Redux项目开发，可以独立完成Vue全家桶、React全家桶项目开发，了解Angular开发流程。精通HTML5、CSS3、ES，现在虽然不怎么用JQuery了，但是JQuery是基本功，一直没有拉下。对新技术充满期待。</p>
+<p>CSS3功底极佳，熟悉弹性盒布局，对像素追求极致，可以精确还原设计稿，完整完成过Redux项目开发，可以独立完成Vue全家桶、React全家桶项目开发，了解Angular开发流程。精通HTML5、CSS3、JS，现在虽然不怎么用JQuery了，但是JQuery是基本功，一直没有拉下。对新技术充满期待。 </p>
 <h3>技能特长</h3>
-<ol>我对终身学习有正确认识，具有不断学习和适应发展的能力，是掘金、SegmentFault、伯乐在线、CSDN活跃用户，非常关注前端开发博客。参考JQuery原理利用面向对象思想封装了私人框架ZQuery，实现了JQuery的部分功能。ZQuery的github地址：https://github.com/zhaochuantian/ZQuery/tree/master 
+<ol>我对终身学习有正确认识，具有不断学习和适应发展的能力，是掘金、SegmentFault、伯乐在线、CSDN活跃用户，非常关注前端开发博客。参考JQuery原理利用面向对象思想封装了私人框架ZQuery，实现了JQuery的部分功能。
+<li>熟悉webpack打包，熟悉flux架构，了解MVC模式和MVVM模式实现原理。</li>
 <li>精通HTML5 + CSS3 + JQ，熟练使用ECMA6语法中的展开符、数组的解构赋值、对象的完全解构进行Vue、React、Angular开发，我用nodejs的express框架搭建web服务开发了个人整站，熟悉增加路由→渲染路由→处理页面的工作流程，
 这个Demo的github地址： https://github.com/zhaochuantian/Personal-Blog （readme中介绍了主要的功能，可以不必下载代码查看。）</li>
 <li>掌握http常见状态码，明白并实际使用过Mysql、mongodb这种常见关系型/文档型数据库。可以独立用Mysql、mongodb之类数据库写登陆注册搜索商品。</li>
@@ -26,19 +27,15 @@ https://github.com/zhaochuantian/Personal-Blog
 <pre>
 利用nodejs的路由渲染搭建一个MVC模式个人博客，实现管理员功能与访客功能，后台管理页面样式用bootstrap搭建。
 我完成的任务
-（1）swig写网页，利用继承重写完成了路由跳转后的页面渲染
-（2）通过数据库中isAdmin的权限判断，判断是否有权利进入后台管理界面
-（3）进入后台管理界面之后，对数据库请求数据条数做了限制，实现了数据分页显示。
-（4）分类列表在另一个数据库中，通过ID进行视图控制
-（5）主页内容继承index进行重绘
-（6）利用ID绑定实现了博客的评论与阅读量显示
+（1）完整的MVC模式，网站通过mongoose中间件访问数据库，在schemas中定义数据结构，在models中定义了数据库接口
+（2）访问数据库对数据库进行操作，将返回数据挂载在res.json上
+（3）前端通过ajax拿到数据库中数据之后对页面进行渲染
+（4）实现了登录注册、用户账号密码查询、管理员权限进入后台管理界面、分页显示数据、博客分类添加删除、分类下文章的添加删除
 https://github.com/zhaochuantian/Personal-Blog  
 这个git上的地址也全是我做完的，运行是在localhost：8081下，
 用nodejs的express框架搭建web服务开发了个人整站，
 增加路由→渲染路由→处理页面，数据库Mongodb。 
 用nodejs对数据库进行了操作。
-这是我做的一个后端网站，完全由路由跳转，
-跟Vue React Angular的路由也挺像的。
 </pre>
 
 
