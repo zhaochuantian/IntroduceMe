@@ -15,7 +15,6 @@
     <li>精通MVVM模式，熟练使用Vue + Vue-router + Vuex编写组件进行项目开发，熟悉elementUI，less预处理样式，axios进行数据请求，webpack打包        </li>
     <li> 熟练使用React + React-router + React-Redux编写组件进行项目开发，fetch处理数据请求，回调函数处理异步加载问题。      </li>
     <li>熟悉bootstrap等常见UI库      </li>
-
     <li> 经常使用webpack 打包。 熟悉webpack.config.js功能，熟悉gulp任务      </li>
     <li>熟悉NodeJS ，熟悉MVC模式，用express搭建过个人博客网站。        </li>
     <li>熟悉MongoDB、MySQl等常见文档型/关系型数据库基本操作       </li>
