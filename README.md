@@ -24,7 +24,6 @@
 
 <h3>项目经验</h3>
 <div>express搭建单页应用个人博客</div>
-https://github.com/zhaochuantian/Personal-Blog
 <pre>
 利用nodejs的路由渲染搭建一个MVC模式个人博客，实现管理员功能与访客功能，后台管理页面样式用bootstrap搭建。
 我完成的任务
